@@ -1,0 +1,64 @@
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: serif;
+  background-color: black;
+}
+
+body,
+html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+#contact {
+  text-align: center;
+  font-family: serif;
+  font-size: 20px;
+  background-color: rgb(202, 7, 7);
+  color: white;
+  border: solid black;
+
+}
+
+.ctitle {
+  background-color: rgb(202, 7, 7);
+  text-decoration: underline white;
+}
+
+#slogan {
+  border: solid white 3px; 
+  border-radius: 20px;
+  background-color: rgb(202, 7, 7);
+  font-size: 20px;
+  font-family: serif;
+  letter-spacing: 10px;
+  /* max-width: 70%; */
+  /* text-decoration: underline red; */
+}
+
+/* Full height image header */
+.bgimg-1 {
+  /* background-position: center; */
+  background-size: cover;
+  background-image: url("images/roof3.jpg");
+  min-height: 100%;
+  border-radius: 20px;
+  /* opacity: 90%; */
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+#home {
+  text-align: center;
+}
+
+#myNavbar {
+  background-color: rgb(202, 7, 7);
+  color: white;
+}
+
+#staticImages {
+  background-image: url("images/shingles2.jpg");
+}
+
