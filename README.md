@@ -14,11 +14,12 @@
 
 <br>
 
+## Description
+HTML, CSS, Javascript
 
-## GitHub Profile
+This site is a very basic website demonstration that I created for a local roofing and construction company. 
+
+## My GitHub Profile
 https://github.com/codyalmand
-
-## LinkedIn Profile
- https://www.linkedin.com/in/cody-almand-00726b1b6/
 
 <br>
